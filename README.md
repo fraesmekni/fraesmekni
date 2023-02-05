@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **fares.mekni.jr@gmail.com**
 
