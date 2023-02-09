@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fares.mekni.jr@gmail.com**
 
-- ⚡ Fun fact **I never received a gift .**
+- ⚡ Fun fact **I am dump .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
