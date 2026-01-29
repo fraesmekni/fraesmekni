@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [DECIPHER FULLSATCKJS](https://github.com/fraesmekni/FullStackJs-Decipher)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **RAG**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **fares.mekni.jr@gmail.com**
 
-- ⚡ Fun fact **I am dump .**
+- ⚡ Fun fact **I am Always Hungry .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
